@@ -23,7 +23,7 @@ This project is an automation script designed to interact with the Openledger AP
 1. Clone the repository:
     ```bash
     git clone https://github.com/Lucasbolt/OpenLedger.git
-    cd openledger-automation
+    cd OpenLedger
     ```
 
 2. Install dependencies:
